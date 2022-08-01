@@ -5,6 +5,6 @@ In the BERT training process, the model receives pairs of sentences as input and
 link to dataset: https://www.kaggle.com/c/stat946winter2021dc2
 
 Task:
-1- Download all parts of the dataset from the data section.
-2- Train your neural network using the train dataset.
-3- Predict the correct order of sentences in the test data and submit your prediction file. You can find a sample submission file and its format in the data section (Note that later you also need to submit your codes in Learn and your submission file must be reproducible by your code)
+1. Download all parts of the dataset from the data section.
+2. Train your neural network using the train dataset.
+3. Predict the correct order of sentences in the test data and submit your prediction file. You can find a sample submission file and its format in the data section (Note that later you also need to submit your codes in Learn and your submission file must be reproducible by your code)
